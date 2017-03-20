@@ -1,4 +1,4 @@
 # onCommit
 A repository to test pushing on commit
 
-testing push on release
+I am going to test building on merge
